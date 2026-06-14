@@ -1,10 +1,7 @@
-"""Точка входа в программу генерации чисел Хэмминга."""
-
 from interface import ConsoleInterface
 
 
 def main():
-    """Главная функция программы. Запускает цикл меню."""
     console_interface = ConsoleInterface()
     console_interface.run()
 
