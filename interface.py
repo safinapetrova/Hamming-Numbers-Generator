@@ -1,6 +1,3 @@
-"""Модуль консольного интерфейса с циклическим меню и валидацией ввода."""
-
-
 from hamming import HammingGenerator
 from exceptions import HammingError, InvalidCountError
 
